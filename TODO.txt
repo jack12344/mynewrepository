@@ -1,2 +1,8 @@
-1.Order rolling luggage.
-2.Top up Co number
+
+
+Add a remote repo called "origin" via "git remote add <remote-name> <remote-url>"
+// For examples,
+$ git remote add origin https://github.com/your-username/test.git
+
+Push the commits from the local repo to the remote repo via "git push -u <remote-name> <local-branch-name>".
+
